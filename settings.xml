@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <video>
+    <resolution width="1920" height="1080" rate="60" />
+  </video>
+  <audio music-volume="0" effects-volume="25" />
+</settings>
